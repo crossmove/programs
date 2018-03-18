@@ -12,7 +12,7 @@ namespace CodedUITestProject4
     /// Summary description for CodedUITest1
     /// </summary>
     [CodedUITest]
-    public class TestClass
+    public class TestClass  //pradeep
     {
         [TestInitialize]
         public void InitializeMethod()
